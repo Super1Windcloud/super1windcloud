@@ -10,3 +10,7 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
+
+
+![2024-10-02](https://github.com/user-attachments/assets/21a64cb4-6a7c-4b0a-95ab-0451438b363b)
+
